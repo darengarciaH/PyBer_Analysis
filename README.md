@@ -7,7 +7,7 @@ For our analysis on ride-sharing data, we reach several conclusions. Total fares
 
 <img width="629" alt="Screen Shot 2021-12-03 at 4 12 44 AM" src="https://user-images.githubusercontent.com/92702922/144586327-de85ccea-36ea-4ab7-83c6-6ff5ca2219be.png">
 
-### Multiple Line Graph, January 2019 to April 2019
+### Multiple Line Graph, Fares from January 2019 to April 2019
 As for our multiple line plot, we collect ride data from January 2019 to April 2019. The results remain similar: urban cities collect a greater total of fares than do suburban and rural cities. Rural cities bring in the lowest fare revenue for Pyber, while suburban cities rank above rural cities for this analysis as well.
 
 <img width="1025" alt="Screen Shot 2021-12-03 at 5 09 28 AM" src="https://user-images.githubusercontent.com/92702922/144592905-1654ebc3-6639-486f-99db-d8aa35d5fa45.png">
